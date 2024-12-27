@@ -1,10 +1,7 @@
 ![Header](./github-header-image.png)
 
-###
-
-<img src="https://raw.githubusercontent.com/Blackcatkai7040306/Blackcatkai7040306/output/snake.svg" alt="Snake animation" />
-
-###
+![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <h3 align="left">👩‍💻  About Me</h3>
 
