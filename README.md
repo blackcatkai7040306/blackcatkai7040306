@@ -1,7 +1,4 @@
-
-<div align="center">
-  <img height="200" src="./your-header-image-name.png"  />
-</div>
+![Header](./header.png)
 
 ###
 
