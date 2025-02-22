@@ -5,7 +5,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-####
+#####
 
 <p align="left">I specialize in AI.<br>I completed quick engineering using LangChain and prompt Engineering in OpenAI.<br>As a specialist in 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, I have a proven track record of delivering innovative solutions utilizing a diverse technology stack that includes JavaScript, Python, PHP, Node.js, and both SQL and NoSQL databases.<br>My expertise in 𝐟𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 𝐥𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐚𝐧𝐝 𝐟𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 such as React, Vue, Next.js, Nuxt.js, as well as 𝐛𝐚𝐜𝐤-𝐞𝐧𝐝 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐟𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 like Express, Laravel, and Strapi enables me to create scalable applications for both front-end and back-end environments. <br>As a Certified Solutions Architect with 𝐨𝐯𝐞𝐫 7 𝐲𝐞𝐚𝐫𝐬 of experience in full-stack and AI development, I am committed to delivering high-quality technology solutions.<br>My systematic approach ensures that projects are executed on time and meet the highest standards of excellence.</p>
 
